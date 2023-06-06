@@ -1,3 +1,4 @@
-# 6Companies30Days-Challenge-
-Covering 6 company questions in 30 days Arsh Goyal Challenge 2023
+Strivers-SDE-Sheet-Challenge
+
+Maintaining all the solutions of Striver SDE Sheet Challenge 2023. Let's make it!🎉
 
